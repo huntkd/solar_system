@@ -11,8 +11,8 @@ a list of the x and y coordinates).
 
 Running the Code:
 
-1. Set the number of earth days you want the simulation to run (the default is 1000)
-2. If you want to add a new planet, create a new planet and plug in the parameters of the orbit 
+1. If you want to change the number of earth days you want the simulation to run (the default is 1000) change the global variable at the top of the planet class.
+2. If you want to add a new orbit, create a new planet and plug in the parameters of the planet's orbit 
 3. Add the new planet to planet_list
 3. Run the code from the command line: python solar.py
 
